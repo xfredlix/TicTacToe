@@ -1,0 +1,22 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "TicTacToe.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xfredlix/TicTacToe.git"
+  },
+  "author": "Fred Li",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/xfredlix/TicTacToe/issues"
+  },
+  "homepage": "https://github.com/xfredlix/TicTacToe#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
